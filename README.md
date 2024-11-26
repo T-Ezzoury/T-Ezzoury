@@ -1,7 +1,7 @@
 # Taha EZ-ZOURY
 
 # 👋 Hi, I'm Taha Ezzoury
-🎓 Engineering student at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/), pursuing a Master's in **Data Science and Computer Science**.
+🎓 Engineering student at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/), majoring **Data Science and Computer Science**.
 
 ## 🔧 Technical Skills
 - **Languages**: Python, Java, C, SQL, NoSQL, VBA, R

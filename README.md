@@ -17,7 +17,7 @@
 ## 💡 Interests & Career Goals
 I'm passionate about exploring the intersection of **data science**, **software development**, and **systems engineering**. My current focus includes:
 - **Software Engineering**: Building scalable, efficient software applications with a focus on DevOps practices.
-- **Data Science**: Applying transformer models in areas like **Generative AI**, **agent building**, and **visual document understanding**.
+- **Data Science**: Focusing more on transformer models in areas like **generative AI**, **agent building**, and **visual document understanding**.
 - **Future Aspirations**: Exploring opportunities in **low-level systems optimization**.
 
 ## 📫 Let's Connect!

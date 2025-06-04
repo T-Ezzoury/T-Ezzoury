@@ -1,6 +1,8 @@
 # Taha EZ-ZOURY
 
-# 👋 Hi, I'm Taha Ezzoury
+A personal profile site built from my GitHub README. Open `index.html` in your browser to see the website.
+
+## 👋 Hi, I'm Taha Ezzoury
 🎓 Engineering student at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/), majoring **Data Science and Computer Science**.
 
 ## 🔧 Technical Skills
@@ -12,7 +14,6 @@
 
 ## 🌟 Featured Projects
 - **[Chatbot with RAG](https://github.com/wide-view-corp/resume-matcher)**: Implemented, using retrieval augmented generation (RAG), a chatbot for recruiters to facilitate the matching of resumes & job description process.
-
 
 ## 💡 Interests & Career Goals
 I'm passionate about exploring the intersection of **data science**, **software development**, and **systems engineering**. My current focus includes:
@@ -28,4 +29,5 @@ I'm passionate about exploring the intersection of **data science**, **software 
 ## 🔄 Current Focus
 - Seeking an **end-of-studies internship** in **IT**.
 - Exploring roles in **data science** and **software engineering**.
+
 Thank you for visiting my GitHub profile! 😊
